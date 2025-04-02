@@ -34,18 +34,23 @@ montamos telas para obter uma noção de como esperamos que fiquem as funcionali
 # MODELO DE NEGÓCIO (Business Model Canvas ou Social Model):
 ![modelo do projeto](https://github.com/user-attachments/assets/e93a1768-9458-4c43-a1d3-dcf04e189202)
 # Requisitos: 
-- Requisitos Funcionais
+# Requisitos Funcionais
+
 Financeiro:Uma página focada para calcular as melhores regiões para se mudar
 baseadas na verba que será informada pelo usuário.
+
 - Rankings: Listas ranqueadas de acordo com o desejo do usuário, sejam elas
 ordenadas por preço, segurança, proximidade de algum local ou facilidade de
 conseguir transportes públicos.
+
 - Contatos:Links de grupos e fóruns de vizinhanças, condomínios, repúblicas e
 contatos de outras pessoas que pretendem sair de casa e precisam de colegas para
 dividir despesas.
+
 - Central de Dúvidas:Um chat que daria contato direto com nosso grupo de dúvidas e
 solucionaria algum problema que o usuário está tendo com a plataforma.
-- Requisitos Não Funcionais
+# Requisitos Não Funcionais
+
 Atualização e Manutenção:
 - Designar uma equipe dedicada à manutenção e atualização contínua da plataforma,
 incluindo monitoramento de mudanças nas leis e melhores práticas.
@@ -53,14 +58,17 @@ incluindo monitoramento de mudanças nas leis e melhores práticas.
 precisam de atualização ou melhoria.
 - Utilizar tecnologias modernas e escaláveis para garantir a estabilidade e o
 desempenho da plataforma durante o uso contínuo.
+
 Segurança de Dados:
 - Requisitos de segurança robustos, como criptografia de dados, autenticação de dois
 fatores e acesso restrito a informações sensíveis.
+
 Desempenho:
 - Tempo de resposta rápido para garantir uma experiência fluida e sem atrasos para
 os usuários.
 - Capacidade de lidar com múltiplos usuários simultaneamente sem comprometer o
 desempenho.
+
 Usabilidade e Acessibilidade:
 - Interface intuitiva e de fácil navegação para garantir a usabilidade por usuários de
 diferentes níveis de habilidade.
@@ -71,15 +79,18 @@ Conformidade Legal e Regulatória:
 relevantes.
 - Manutenção de registros e históricos de atividades conforme exigido pelas leis
 locais.
+
 Escalabilidade:
 - Capacidade de expansão para acomodar um aumento no número de usuários e
 conteúdos sem comprometer o desempenho.
 - Gerenciamento eficiente de recursos para lidar com picos de demanda.
+
 Manutenibilidade:
 - Estrutura de código modular e documentação clara para facilitar a manutenção e
 aprimoramento contínuos do aplicativo.
 - Implementação de processos de teste e depuração para identificar e corrigir
 problemas rapidamente.
+
 Compatibilidade:
 - Compatibilidade com diferentes dispositivos e sistemas operacionais para garantir
 que o aplicativo seja acessível em uma variedade de plataformas.
@@ -88,6 +99,7 @@ Privacidade:
 e segurança das informações dos usuários.
 - Consentimento explícito dos usuários para coleta e uso de dados pessoais,
 conforme exigido pelas regulamentações de privacidade.
+
 Esses requisitos não-funcionais são essenciais para garantir que o aplicativo da plataforma
 de aprendizagem de vida seja seguro, eficiente, acessível e legalmente conforme,
 proporcionando uma experiência positiva e confiável para todos os usuários
