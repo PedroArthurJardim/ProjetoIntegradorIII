@@ -11,6 +11,14 @@ própria instituição.
 Nosso objetivo é solucionar esse problema e facilitar o encontro
 da nova casa desses jovens, trazendo uma forma simples de
 pesquisa, sendo segura e rápida .
+# Objetivos Específicos:
+Não queremos ser como qualquer site de imobiliária da internet,
+queremos ajudar nosso público alvo, fazendo perguntas específicas e
+ajudando em requisitos nos quais outros sites não possuem.
+Nosso site tem como objetivo filtrar as necessidades do usuário e
+apresentar as melhores soluções possíveis para os seus problemas,
+sendo a localização, valor do aluguel e qualquer outro empecilho no
+caminho
 
 
 # Participantes
